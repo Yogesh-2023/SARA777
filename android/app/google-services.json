@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519093328416",
+    "project_id": "dpbossfirstapp",
+    "storage_bucket": "dpbossfirstapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519093328416:android:db72f5fe269451ffc37a45",
+        "android_client_info": {
+          "package_name": "com.dpboss.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr6P-Lcw8OAfkaD1kWv-C6xq010A18eMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
